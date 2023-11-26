@@ -1,3 +1,5 @@
+<h3>news</h3>
+<p>trying to think of some</p>
 <h3>changelog</h3>
 <h4>10/3/23</h4>
 <p>added news and couple more games</p>
@@ -6,6 +8,6 @@
 <h4>10/22/23</h4>
 <p>added lbannana and the hold</p>
 <h4>11/17/23</h4>
-<p>ThePegLeg is now an organization</p>
-<h3>news</h3>
-<p>trying to think of some</p>
+<p>thepegleg is now an organization</p>
+<h4>11/25/23</h4>
+<p>Completely redid thepegleg</p>
