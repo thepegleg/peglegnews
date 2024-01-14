@@ -1,6 +1,11 @@
 <h3>news</h3>
-<p>trying to think of some</p>
+<h4>Outred was taken down by microsoft</h4>
+<h4>lbannana was also taken down by microsoft</h4>
+<h4>3kh0 v4 was also taken down by microsoft</h4>
+<h4>Really hoping the pegleg stays afloat</h4>
 <h3>changelog</h3>
+<h4>1/14/24</h4>
+<p>Not doing changelog anymore, pain in the butt</p>
 <h4>10/3/23</h4>
 <p>added news and couple more games</p>
 <h4>10/4/23</h4>
