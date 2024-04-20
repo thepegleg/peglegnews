@@ -1,8 +1,9 @@
-<h3>news</h3>
-<h4>Outred was taken down by microsoft</h4>
-<h4>lbannana was also taken down by microsoft</h4>
-<h4>3kh0 v4 was also taken down by microsoft</h4>
-<h4>Really hoping the pegleg stays afloat</h4>
+<h3>Latest news</h3>
+<h4>Regarding the end of the school year and what happens next</h4>
+<h5>4/20/24</h5>
+<p> As a lot of the more local people may know, the school year is coming to an end. But what happens next with thepegleg?</p>
+<p>Short version: Development will slow significantly over the summer, and come back in the fall, but probably with less frequency then right now</p>
+<p> Long(er) version: Main dev, Cbass92 is going to high school and will probably have less free time to work on this. I plan to involve a younger generation, and keep this project aimed at middle schools. There is a big important doc update coming, and that will probably be the last big update of this year. New games will still be added occasionally. Anywho, that's it for this weeks news. Probable next news: 5/20ish</p>
 <h3>changelog</h3>
 <h4>1/14/24</h4>
 <p>Not doing changelog anymore, pain in the butt</p>
